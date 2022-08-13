@@ -1,7 +1,4 @@
-# Blender v2.92.0 OBJ File: ''
-# www.blender.org
-mtllib kopeika.mtl
-o seats_Меш
+o seats_mech
 v -0.522252 0.429779 -0.582519
 v -0.603152 0.429779 -0.083155
 v -0.603152 0.603860 -0.492829
